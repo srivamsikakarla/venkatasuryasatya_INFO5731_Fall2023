@@ -1,0 +1,11 @@
+document_id,clean_text,sentiment
+1,"This movie is outstanding with a haunting performance and best character development.",1
+2,"The plot is engaging and the characters are well-developed.",1
+3,"An intense and gripping movie with brilliant character performances.",1
+4,"I didn't like the ending; it was disappointing.",-1
+5,"The story lacked depth, and the characters were poorly developed.",-1
+6,"It's an average movie with some good and some bad aspects.",0
+7,"The acting was superb, but the plot was confusing.",0
+8,"I absolutely loved it! The best film of the year.",1
+9,"Not a fan. The acting felt forced, and the plot was predictable.",-1
+10,"A heartwarming story with excellent performances.",1
